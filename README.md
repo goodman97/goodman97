@@ -2,6 +2,8 @@
 
 **`krill that wanna be whale (computer science student)`**
 
+I am a Computer Science student and a Graphic Design enthusiast who focuses on building as much experience as possible. Some of my coding projects are part of my college assignments, while others are personal projects I work on in my free time. I am also passionate about Linux and network engineering. Outside of academics, I am actively involved in the Student Executive Board and the Multimedia Community.
+
 <!--
 **goodman97/goodman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

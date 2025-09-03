@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🍋 Faisal Dani Noto Legowo
+
+**'krill that wanna be whale (computer science student)'**
 
 <!--
 **goodman97/goodman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
